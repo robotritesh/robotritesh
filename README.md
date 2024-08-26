@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ritesh dhote</h1>
-<h2>I'm a aspiring Full Stack Web Developer and always ready for learning new things🙂.</h2>
+<h2>I'm a aspiring MERN Stack Web Developer and always ready for learning new things🙂.</h2>
 
 ## About Me:
 
