@@ -9,7 +9,7 @@
 
 📩 Email - dhoteritesh66@gmail.com
 
-💼 Portfolio - https://riteshdhoteportfolio.netlify.app/
+💼 Portfolio - https://robotritesh.github.io/Portfolio/
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/ritesh-dhote-512772289/" target="_blank">
